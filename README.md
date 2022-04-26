@@ -1,0 +1,1 @@
+# COVID-prediction-using-CNN-and-trasfer-learning
